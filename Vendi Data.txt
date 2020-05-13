@@ -1,0 +1,45 @@
+
+		SoftDrink Vendi
+
+
+RedBull
+	750
+	1000
+	-250
+
+
+PEPSI
+	100
+	100
+	0
+
+
+RedBull
+	500
+	1000
+	-500
+
+
+PEPSI
+	50
+	100
+	-50
+
+
+PEPSI
+	50
+	100
+	-50
+
+
+Sprite
+	100
+	100
+	0
+
+
+PEPSI
+	100
+	100
+	0
+
